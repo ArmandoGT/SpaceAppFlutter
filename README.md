@@ -19,9 +19,9 @@ O projeto implementa conceitos fundamentais de desenvolvimento mobile, incluindo
 
 ### Capturas de Tela
 
-|                        Imagem do Dia                        |                        Seleção de Data                         |                        Galeria de Favoritos                         |
-|:----------------------------------------------------------:|:--------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| ![Tela Inicial](assets/images/printscreen/Home_Screen_Print.jpeg) | ![Calendário](assets/images/printscreen/DatePicker_Print.jpeg) | ![Favoritos](assets/images/printscreen/Favorites_Screen_Print.jpeg) |
+|                       Imagem do Dia                        |                        Seleção de Data                        |                        Galeria de Favoritos                        |
+|:----------------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------------:|
+| ![Tela Inicial](assets/printscreen/Home_Screen_Print.jpeg) |    ![Calendário](assets/printscreen/DatePicker_Print.jpeg)    |    ![Favoritos](assets/printscreen/Favorites_Screen_Print.jpeg)    |
 > *Figura 1: Tela principal exibindo a Imagem Astronômica do Dia (APOD).*
 
 > *Figura 2: Funcionalidade de DatePicker para viajar no tempo e ver fotos antigas.*
