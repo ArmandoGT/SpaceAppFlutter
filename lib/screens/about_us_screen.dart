@@ -94,7 +94,7 @@ class AboutUsScreen extends StatelessWidget {
             const Align(
               alignment: Alignment.centerLeft,
               child: Text(
-                "Desenvolvido utilizando a API pública da NASA (Astronomy Picture of the Day), explorando o vasto universo de dados espaciais diretamente no seu dispositivo.",
+                "Desenvolvido utilizando a API pública da NASA (Astronomy Picture of the Day), explorando o vasto universo de dados espaciais.",
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.white70,
